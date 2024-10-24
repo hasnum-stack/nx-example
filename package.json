@@ -1,0 +1,16 @@
+{
+  "name": "hasnum-web-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nx serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nx": "20.0.5"
+  },
+  "nx": {}
+}
